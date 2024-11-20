@@ -1,1 +1,1 @@
-# chesstornamentschatbot
+# 체스대회알리미챗봇 코드입니다
